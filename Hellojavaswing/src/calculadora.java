@@ -38,9 +38,9 @@ public class calculadora {
 
             }
         });
-        btn02.addActionListener(new ActionListener() {
+       // btn02.addActionListener(new ActionListener() {
 
-        })
+      //  })
     }
 
 
